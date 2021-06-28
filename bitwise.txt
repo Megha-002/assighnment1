@@ -3,7 +3,6 @@
 #include <iostream>
 using namespace std;
 
-// Returns true if n is even, else odd
 bool isEven(int n)
 {
 
@@ -14,7 +13,6 @@ bool isEven(int n)
 		return false;
 }
 
-// Driver code
 int main()
 {
 	int n = 100;
